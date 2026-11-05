@@ -4,16 +4,6 @@
 
 </div>
 
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fija-K/fija-K/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fija-K/fija-K/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/fija-K/fija-K/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</div>
-
 ### 🕯 things i've made
 
 | project | what it is |
@@ -36,6 +26,18 @@
 | :--- | :--- |
 | [🫀 Heart Disease Prediction](https://github.com/fija-K/Heart-Disease-Prediction-ML) | ML model that guesses which hearts are in trouble |
 | [🌐 portfolio](https://github.com/fija-K/my-portfolio) | personal corner of the web with cyber y2k & pastel retro vibes |
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fija-K/fija-K/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fija-K/fija-K/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/fija-K/fija-K/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
 
 <br/>
 
